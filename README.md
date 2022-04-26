@@ -13,7 +13,7 @@
 
 --------------
 ## 주요 기술
-+ Unity2d
++ Unity3D
 + C#
 + Photon Cloud
 + GitHub
